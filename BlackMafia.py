@@ -132,8 +132,8 @@ def login():
 		os.system('clear')
 		print logo
 		jalan(' \033[1;92mWarning: \033[1;97mDo Not Use Your Personal Account' )
-		jalan('          \033[1;92mUse a New Account To Login' )
-		print "\033[1;97m♡──────────•◈•──────────♡\033[1;96mBlackMafia\033[1;97m♡──────────•◈•──────────♡"
+		jalan('          \033[1;97mUse a New Account To Login' )
+		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mBlackMafia\033[1;95m♡──────────•◈•──────────♡"
 		print('	   \033[1;94m♡\x1b[1;91mLOGIN WITH FACEBOOK\x1b[1;94m♡' )
 		print('	' )
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;96m')
